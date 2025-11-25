@@ -277,4 +277,4 @@ parameters:
 - Medium: https://medium.com/remix-ide
 - Linkedin: https://www.linkedin.com/company/ethereum-remix
 - X: https://x.com/ethereumremix
-- Join Discord: https://discord.gg/snsrYVU4Q7
+- Join Discord: https://discord.gg/snsrYVU4Q7:
